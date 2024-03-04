@@ -1,0 +1,30 @@
+12:30:38.633 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+12:30:56.387 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+12:30:58.145 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+12:31:16.219 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+00:31:15.126 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+00:31:55.025 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+00:31:57.639 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+00:32:17.061 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+00:33:42.891 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+00:34:06.973 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+00:34:09.198 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+00:34:26.240 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+00:37:20.579 [main] INFO  testing.BaseClass - **** get City and get Doctor type ****
+00:37:40.688 [main] INFO  testing.BaseClass - **** Filter the Doctor as per Requirement ****
+00:37:43.237 [main] INFO  testing.BaseClass - get Doctor Names,  Expierence, and Fees
+00:37:43.445 [main] INFO  testing.BaseClass - click on Surgeries
+00:37:46.212 [main] INFO  testing.BaseClass - print all the Surgies names
+00:38:01.632 [main] INFO  testing.BaseClass - click the Workplace Health
+00:38:02.479 [main] INFO  testing.BaseClass - enter the Wrong Details
+00:38:04.983 [main] INFO  testing.BaseClass - check the submit button is diaplayed or not
+00:38:21.868 [main] INFO  testing.BaseClass - enter the Correct Details
+00:38:37.343 [main] INFO  testing.BaseClass - check the ThankYou message
+11:50:03.195 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+11:55:00.292 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+11:55:03.278 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+11:55:46.994 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+15:36:44.804 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+15:38:53.701 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+15:39:25.328 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+15:40:09.775 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
