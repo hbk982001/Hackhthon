@@ -21,6 +21,7 @@ public class Surgeries extends BasePage{
 	
 	
 	public void print_Surgeries_Name() throws InterruptedException{
+		Thread.sleep(3000);
 		Slt_Surgeries.click();
 		
 		 JavascriptExecutor js = (JavascriptExecutor)driver;

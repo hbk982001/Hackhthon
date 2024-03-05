@@ -10,3 +10,7 @@
 11:29:40.888 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
 11:29:42.407 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
 11:29:59.543 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+11:44:00.379 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+11:44:39.383 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+11:44:41.457 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+11:45:03.492 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
