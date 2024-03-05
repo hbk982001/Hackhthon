@@ -14,7 +14,8 @@ public class Surgeries extends BasePage{
 	}
 	
 	
-	@FindBy(xpath="(//div[@class='product-tab'])[5]//div[1]") WebElement Slt_Surgeries;
+	//@FindBy(xpath="(//div[@class='product-tab'])[5]//div[1]") WebElement Slt_Surgeries;
+	@FindBy(linkText="Surgeries") WebElement Slt_Surgeries;
 	@FindBy(xpath="//div[@class='SurgicalSolutions-module_ailmentItemWrapper__Krx-u']//p") List<WebElement> get_SurgeriesName;
 	
 	

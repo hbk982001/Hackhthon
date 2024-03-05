@@ -4,3 +4,9 @@
 00:05:14.410 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
 00:05:16.546 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
 00:05:35.497 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+11:26:24.155 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+11:26:34.452 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+11:26:56.282 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+11:29:40.888 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+11:29:42.407 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+11:29:59.543 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
