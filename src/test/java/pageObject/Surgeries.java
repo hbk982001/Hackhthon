@@ -15,15 +15,19 @@ public class Surgeries extends BasePage{
 	
 	
 	//@FindBy(xpath="(//div[@class='product-tab'])[5]//div[1]") WebElement Slt_Surgeries;
+	@FindBy(xpath="//i[@class='hamburger ic icon-ic_drawer_system']") WebElement side_srch;
 	@FindBy(linkText="Surgeries") WebElement Slt_Surgeries;
 	@FindBy(xpath="//div[@class='SurgicalSolutions-module_ailmentItemWrapper__Krx-u']//p") List<WebElement> get_SurgeriesName;
 	
 	
 	
 	public void print_Surgeries_Name() throws InterruptedException{
-		Thread.sleep(3000);
+		try {
+			side_srch.click();
+			Slt_Surgeries.click();
+		}catch(Exception e) {
 		Slt_Surgeries.click();
-		
+		}
 		 JavascriptExecutor js = (JavascriptExecutor)driver;
 		 js.executeScript("window.scrollBy(0,500)");
 		
