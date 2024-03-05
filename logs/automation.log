@@ -14,3 +14,35 @@
 11:44:39.383 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
 11:44:41.457 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
 11:45:03.492 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+12:02:18.598 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+12:02:58.981 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+12:03:00.752 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+12:03:18.165 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+14:02:58.664 [main] INFO  testing.BaseClass - **** get City and get Doctor type ****
+14:03:18.234 [main] INFO  testing.BaseClass - **** Filter the Doctor as per Requirement ****
+14:03:20.676 [main] INFO  testing.BaseClass - get Doctor Names,  Expierence, and Fees
+14:03:20.832 [main] INFO  testing.BaseClass - click on Surgeries
+14:03:22.861 [main] INFO  testing.BaseClass - print all the Surgies names
+14:03:57.481 [main] INFO  testing.BaseClass - click the Workplace Health
+14:03:58.076 [main] INFO  testing.BaseClass - enter the Wrong Details
+14:04:00.430 [main] INFO  testing.BaseClass - check the submit button is diaplayed or not
+14:04:26.081 [main] INFO  testing.BaseClass - enter the Correct Details
+14:04:40.223 [main] INFO  testing.BaseClass - check the ThankYou message
+14:10:15.010 [main] INFO  testing.BaseClass - **** get City and get Doctor type ****
+14:10:34.800 [main] INFO  testing.BaseClass - **** Filter the Doctor as per Requirement ****
+14:10:37.249 [main] INFO  testing.BaseClass - get Doctor Names,  Expierence, and Fees
+14:10:37.384 [main] INFO  testing.BaseClass - click on Surgeries
+14:10:39.791 [main] INFO  testing.BaseClass - print all the Surgies names
+14:11:14.243 [main] INFO  testing.BaseClass - click the Workplace Health
+14:11:14.836 [main] INFO  testing.BaseClass - enter the Wrong Details
+14:11:17.172 [main] INFO  testing.BaseClass - check the submit button is diaplayed or not
+14:11:43.830 [main] INFO  testing.BaseClass - enter the Correct Details
+14:11:57.964 [main] INFO  testing.BaseClass - check the ThankYou message
+14:17:17.912 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+14:18:11.752 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+14:18:14.485 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+14:18:14.892 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******
+14:19:27.834 [main] INFO  testing.BaseClass - ****** Starting TC001_Doctor_Details *******
+14:20:48.588 [main] INFO  testing.BaseClass - ****** Starting TC002_Surgeries *******
+14:20:52.749 [main] INFO  testing.BaseClass - ****** Starting TC003_Set_Wrong_Details *******
+14:21:27.719 [main] INFO  testing.BaseClass - ****** Starting TC004_Set_Correct_Details *******

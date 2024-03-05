@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-05T11:43:53 IST" name="Suite" finished-at="2024-03-05T11:45:21 IST" duration-ms="87766">
+  <suite started-at="2024-03-05T14:19:01 IST" name="Suite" finished-at="2024-03-05T14:21:50 IST" duration-ms="169200">
     <groups>
       <group name="sanity">
         <method signature="TC001_Doctor_Details.Get_Doctor_Details()[pri:0, instance:testing.TC001_Doctor_Details@3c19aaa5]" name="Get_Doctor_Details" class="testing.TC001_Doctor_Details"/>
@@ -11,27 +11,27 @@
         <method signature="TC004_Set_Correct_Details.set_Correct_Details()[pri:0, instance:testing.TC004_Set_Correct_Details@799f10e1]" name="set_Correct_Details" class="testing.TC004_Set_Correct_Details"/>
       </group> <!-- sanity -->
     </groups>
-    <test started-at="2024-03-05T11:43:53 IST" name="Test" finished-at="2024-03-05T11:45:21 IST" duration-ms="87766">
+    <test started-at="2024-03-05T14:19:01 IST" name="Test" finished-at="2024-03-05T14:21:50 IST" duration-ms="169200">
       <class name="testing.TC003_Set_Wrong_Details">
-        <test-method signature="set_Wrong_Details()[pri:0, instance:testing.TC003_Set_Wrong_Details@18078bef]" started-at="2024-03-05T11:44:41 IST" name="set_Wrong_Details" finished-at="2024-03-05T11:45:03 IST" duration-ms="21858" status="PASS">
+        <test-method signature="set_Wrong_Details()[pri:0, instance:testing.TC003_Set_Wrong_Details@18078bef]" started-at="2024-03-05T14:20:52 IST" name="set_Wrong_Details" finished-at="2024-03-05T14:21:27 IST" duration-ms="34801" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- set_Wrong_Details -->
       </class> <!-- testing.TC003_Set_Wrong_Details -->
       <class name="testing.TC004_Set_Correct_Details">
-        <test-method signature="set_Correct_Details()[pri:0, instance:testing.TC004_Set_Correct_Details@799f10e1]" started-at="2024-03-05T11:45:03 IST" name="set_Correct_Details" finished-at="2024-03-05T11:45:19 IST" duration-ms="16467" status="PASS">
+        <test-method signature="set_Correct_Details()[pri:0, instance:testing.TC004_Set_Correct_Details@799f10e1]" started-at="2024-03-05T14:21:27 IST" name="set_Correct_Details" finished-at="2024-03-05T14:21:49 IST" duration-ms="21823" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- set_Correct_Details -->
       </class> <!-- testing.TC004_Set_Correct_Details -->
       <class name="testing.TC002_Surgeries">
-        <test-method signature="get_Surgeries_List()[pri:0, instance:testing.TC002_Surgeries@689604d9]" started-at="2024-03-05T11:44:39 IST" name="get_Surgeries_List" finished-at="2024-03-05T11:44:41 IST" duration-ms="1908" status="PASS">
+        <test-method signature="get_Surgeries_List()[pri:0, instance:testing.TC002_Surgeries@689604d9]" started-at="2024-03-05T14:20:48 IST" name="get_Surgeries_List" finished-at="2024-03-05T14:20:52 IST" duration-ms="4022" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- get_Surgeries_List -->
       </class> <!-- testing.TC002_Surgeries -->
       <class name="testing.TC001_Doctor_Details">
-        <test-method is-config="true" signature="Intiate_WebDriver(java.lang.String,java.lang.String)[pri:0, instance:testing.TC001_Doctor_Details@3c19aaa5]" started-at="2024-03-05T11:43:53 IST" name="Intiate_WebDriver" finished-at="2024-03-05T11:44:00 IST" duration-ms="6426" status="PASS">
+        <test-method is-config="true" signature="Intiate_WebDriver(java.lang.String,java.lang.String)[pri:0, instance:testing.TC001_Doctor_Details@3c19aaa5]" started-at="2024-03-05T14:19:01 IST" name="Intiate_WebDriver" finished-at="2024-03-05T14:19:27 IST" duration-ms="25775" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -47,11 +47,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Intiate_WebDriver -->
-        <test-method signature="Get_Doctor_Details()[pri:0, instance:testing.TC001_Doctor_Details@3c19aaa5]" started-at="2024-03-05T11:44:00 IST" name="Get_Doctor_Details" finished-at="2024-03-05T11:44:39 IST" duration-ms="39144" status="PASS">
+        <test-method signature="Get_Doctor_Details()[pri:0, instance:testing.TC001_Doctor_Details@3c19aaa5]" started-at="2024-03-05T14:19:27 IST" name="Get_Doctor_Details" finished-at="2024-03-05T14:20:48 IST" duration-ms="80909" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Get_Doctor_Details -->
-        <test-method is-config="true" signature="Close_Driver()[pri:0, instance:testing.TC001_Doctor_Details@3c19aaa5]" started-at="2024-03-05T11:45:20 IST" name="Close_Driver" finished-at="2024-03-05T11:45:21 IST" duration-ms="1120" status="PASS">
+        <test-method is-config="true" signature="Close_Driver()[pri:0, instance:testing.TC001_Doctor_Details@3c19aaa5]" started-at="2024-03-05T14:21:49 IST" name="Close_Driver" finished-at="2024-03-05T14:21:50 IST" duration-ms="1089" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Close_Driver -->

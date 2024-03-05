@@ -13,13 +13,6 @@
       </run>
     </groups>
     <classes>
-      <class name="testing.TC004_Set_Correct_Details">
-        <methods>
-          <include name="set_Correct_Details"/>
-          <include name="Intiate_WebDriver"/>
-          <include name="Close_Driver"/>
-        </methods>
-      </class> <!-- testing.TC004_Set_Correct_Details -->
       <class name="testing.TC003_Set_Wrong_Details">
         <methods>
           <include name="Intiate_WebDriver"/>
@@ -27,6 +20,20 @@
           <include name="Close_Driver"/>
         </methods>
       </class> <!-- testing.TC003_Set_Wrong_Details -->
+      <class name="testing.TC004_Set_Correct_Details">
+        <methods>
+          <include name="set_Correct_Details"/>
+          <include name="Intiate_WebDriver"/>
+          <include name="Close_Driver"/>
+        </methods>
+      </class> <!-- testing.TC004_Set_Correct_Details -->
+      <class name="testing.TC001_Doctor_Details">
+        <methods>
+          <include name="Intiate_WebDriver"/>
+          <include name="Get_Doctor_Details"/>
+          <include name="Close_Driver"/>
+        </methods>
+      </class> <!-- testing.TC001_Doctor_Details -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

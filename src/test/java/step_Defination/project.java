@@ -88,8 +88,8 @@ public class project{
 	@Then("check the ThankYou message")
 	public void check_the_thank_you_message() throws InterruptedException {
 		 wh.get_ThankYou_Message();
-		 driver.quit();
-		 BaseClass.getLogger().info("check the ThankYou message"); 
+		 BaseClass.getLogger().info("check the ThankYou message");
+		  
 	}
 	
 	

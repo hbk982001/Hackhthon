@@ -42,7 +42,5 @@ public class Hooks{
     	TakesScreenshot ts=(TakesScreenshot)driver;
     	byte[] screenshot=ts.getScreenshotAs(OutputType.BYTES);
     	scenario.attach(screenshot, "image/png",scenario.getName());
-    	            
-      
 	}
 }
