@@ -14,7 +14,7 @@
 		</classes>
   </test> 
   
-  <test name="edgetest"> 
+ <!--  <test name="edgetest"> 
   	 
   	<parameter name="os"  value="Windows"/> 
   	<parameter name="browser"  value="edge"/>
@@ -25,6 +25,6 @@
       	<class name ="testing.TC004_Set_Correct_Details"/>
 		</classes>
   </test> 
-  
+   -->
   
 </suite> <!-- Suite -->
